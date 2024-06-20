@@ -49,7 +49,7 @@ def register():
     except:
         messagebox.showinfo("Alert","Enter Values to Register or Duplicate Entry!")
 
-title1 = Label(asf, text="Employee Management System", fg="green", background="yellow", font="time 15 bold",
+title1 = Label(asf, text="Organise A System", fg="green", background="yellow", font="time 15 bold",
                anchor=CENTER)
 title1.grid(row=1, columnspan=8, padx=50)
 
