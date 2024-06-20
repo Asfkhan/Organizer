@@ -1,2 +1,2 @@
-![readme1](https://github.com/Asfkhan/Organizer/assets/121487627/c9642bcf-230a-4677-9a7d-e0e7592142ab)
-![readme2](https://github.com/Asfkhan/Organizer/assets/121487627/cdeda93e-ebd1-4113-b7b8-f0e4ded67e57)
+![realmeNEW2](https://github.com/Asfkhan/Organizer/assets/121487627/ae323c20-06d3-4852-a901-e6c8f7e30905)
+![realmeNEw](https://github.com/Asfkhan/Organizer/assets/121487627/965e9db9-71f3-40c9-aafa-a34a76b1df59)
